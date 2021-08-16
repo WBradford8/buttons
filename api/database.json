@@ -1,0 +1,20 @@
+{
+    "requests": [
+      {
+        "parentName": "Suzie",
+        "childName": "Damien",
+        "numberOfChildren": "15",
+        "date": "2021-12-08",
+        "lengthOfReservation": 3,
+        "id": 1
+      },
+      {
+        "parentName": "Jose",
+        "childName": "Jorge",
+        "numberOfChildren": "12",
+        "date": "0002-12-09",
+        "lengthOfReservation": 3,
+        "id": 2
+      }
+    ]
+  }
