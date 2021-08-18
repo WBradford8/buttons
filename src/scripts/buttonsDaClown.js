@@ -7,7 +7,7 @@ export const buttonsDaClown = () => {
         <h1>Button's the Clown Event Service</h1>
         <section class="serviceForm">
         </section>
-            ${ServiceForm}
+            ${ServiceForm()}
         <section class="serviceRequests">
             <h2>Service Requests</h2>
             ${Requests()}
